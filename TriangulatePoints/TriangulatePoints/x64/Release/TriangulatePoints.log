@@ -1,0 +1,70 @@
+﻿  Using triplet "x64-windows" from "C:\vcpkg\vcpkg\installed\x64-windows\"
+  TriangulatePoints.cpp
+C:\Users\marco\OneDrive\Desktop\Tesi\OphthalmologyThesis\VisualStudioThesisCode\TriangulatePoints\TriangulatePoints\TriangulatePoints.cpp(4,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\marco\OneDrive\Desktop\Tesi\OphthalmologyThesis\VisualStudioThesisCode\TriangulatePoints\TriangulatePoints\TriangulatePoints.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gcommon.hpp(94,20): warning C4251: 'cv::GCompileArg::tag': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'cv::GCompileArg'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gcommon.hpp(115,18): warning C4251: 'cv::GCompileArg::arg': class 'cv::util::any' needs to have dll-interface to be used by clients of struct 'cv::GCompileArg'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\util\any.hpp(53): message : see declaration of 'cv::util::any'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gmat.hpp(46,36): warning C4251: 'cv::GMat::m_priv': class 'std::shared_ptr<cv::GOrigin>' needs to have dll-interface to be used by clients of class 'cv::GMat'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gmat.hpp(46): message : see declaration of 'std::shared_ptr<cv::GOrigin>'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gmat.hpp(60,29): warning C4251: 'cv::GMatDesc::size': class 'cv::gapi::own::Size' needs to have dll-interface to be used by clients of struct 'cv::GMatDesc'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\own\types.hpp(88): message : see declaration of 'cv::gapi::own::Size'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\garray.hpp(76,40): warning C4251: 'cv::detail::GArrayU::m_priv': class 'std::shared_ptr<cv::GOrigin>' needs to have dll-interface to be used by clients of class 'cv::detail::GArrayU'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gmat.hpp(46): message : see declaration of 'std::shared_ptr<cv::GOrigin>'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gscalar.hpp(46,36): warning C4251: 'cv::GScalar::m_priv': class 'std::shared_ptr<cv::GOrigin>' needs to have dll-interface to be used by clients of class 'cv::GScalar'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gmat.hpp(46): message : see declaration of 'std::shared_ptr<cv::GOrigin>'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\garg.hpp(82,20): warning C4251: 'cv::GArg::value': class 'cv::util::any' needs to have dll-interface to be used by clients of class 'cv::GArg'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\util\any.hpp(53): message : see declaration of 'cv::util::any'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gcompiled.hpp(211,33): warning C4251: 'cv::GCompiled::m_priv': class 'std::shared_ptr<cv::GCompiled::Priv>' needs to have dll-interface to be used by clients of class 'cv::GCompiled'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gcompiled.hpp(211): message : see declaration of 'std::shared_ptr<cv::GCompiled::Priv>'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gcomputation.hpp(415,33): warning C4251: 'cv::GComputation::m_priv': class 'std::shared_ptr<cv::GComputation::Priv>' needs to have dll-interface to be used by clients of class 'cv::GComputation'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gcomputation.hpp(415): message : see declaration of 'std::shared_ptr<cv::GComputation::Priv>'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gcall.hpp(53,33): warning C4251: 'cv::GCall::m_priv': class 'std::shared_ptr<cv::GCall::Priv>' needs to have dll-interface to be used by clients of class 'cv::GCall'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gcall.hpp(53): message : see declaration of 'std::shared_ptr<cv::GCall::Priv>'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gkernel.hpp(39,27): warning C4251: 'cv::GKernel::name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of struct 'cv::GKernel'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gkernel.hpp(40,30): warning C4251: 'cv::GKernel::outMeta': class 'std::function<cv::GMetaArgs (const cv::GMetaArgs &,const cv::GArgs &)>' needs to have dll-interface to be used by clients of struct 'cv::GKernel'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gkernel.hpp(37): message : see declaration of 'std::function<cv::GMetaArgs (const cv::GMetaArgs &,const cv::GArgs &)>'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gkernel.hpp(41,32): warning C4251: 'cv::GKernel::outShapes': class 'std::vector<cv::GShape,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of struct 'cv::GKernel'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gkernel.hpp(41,32): warning C4251:         with
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gkernel.hpp(41,32): warning C4251:         [
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gkernel.hpp(41,32): warning C4251:             _Ty=cv::GShape
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gkernel.hpp(41,32): warning C4251:         ]
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gkernel.hpp(30): message : see declaration of 'std::vector<cv::GShape,std::allocator<_Ty>>'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gkernel.hpp(30): message :         with
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gkernel.hpp(30): message :         [
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gkernel.hpp(30): message :             _Ty=cv::GShape
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gkernel.hpp(30): message :         ]
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gkernel.hpp(47,29): warning C4251: 'cv::GKernelImpl::opaque': class 'cv::util::any' needs to have dll-interface to be used by clients of struct 'cv::GKernelImpl'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\util\any.hpp(53): message : see declaration of 'cv::util::any'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gkernel.hpp(273,37): warning C4251: 'cv::gapi::GBackend::m_priv': class 'std::shared_ptr<cv::gapi::GBackend::Priv>' needs to have dll-interface to be used by clients of class 'cv::gapi::GBackend'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gkernel.hpp(264): message : see declaration of 'std::shared_ptr<cv::gapi::GBackend::Priv>'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gkernel.hpp(364,28): warning C4251: 'cv::gapi::GKernelPackage::m_backend_kernels': class 'std::unordered_map<cv::gapi::GBackend,cv::gapi::GKernelPackage::S,std::hash<cv::gapi::GBackend>,std::equal_to<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' needs to have dll-interface to be used by clients of class 'cv::gapi::GKernelPackage'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gkernel.hpp(364,28): warning C4251:         with
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gkernel.hpp(364,28): warning C4251:         [
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gkernel.hpp(364,28): warning C4251:             _Kty=cv::gapi::GBackend,
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gkernel.hpp(364,28): warning C4251:             _Ty=cv::gapi::GKernelPackage::S
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gkernel.hpp(364,28): warning C4251:         ]
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gkernel.hpp(361): message : see declaration of 'std::unordered_map<cv::gapi::GBackend,cv::gapi::GKernelPackage::S,std::hash<cv::gapi::GBackend>,std::equal_to<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>'
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gkernel.hpp(361): message :         with
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gkernel.hpp(361): message :         [
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gkernel.hpp(361): message :             _Kty=cv::gapi::GBackend,
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gkernel.hpp(361): message :             _Ty=cv::gapi::GKernelPackage::S
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gkernel.hpp(361): message :         ]
+C:\Program Files (x86)\OPENCV\opencv-4.0.1\build\install\include\opencv2\gapi\gkernel.hpp(361): message : The contents of <filesystem> are only available with C++17 or later.
+C:\vcpkg\vcpkg\installed\x64-windows\include\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\vcpkg\vcpkg\installed\x64-windows\include\pcl\io\low_level_io.h(93,39): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\vcpkg\vcpkg\installed\x64-windows\include\pcl\io\low_level_io.h(98,40): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\marco\OneDrive\Desktop\Tesi\OphthalmologyThesis\VisualStudioThesisCode\TriangulatePoints\TriangulatePoints\TriangulatePoints.cpp(319,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\marco\OneDrive\Desktop\Tesi\OphthalmologyThesis\VisualStudioThesisCode\TriangulatePoints\TriangulatePoints\TriangulatePoints.cpp(379,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\marco\OneDrive\Desktop\Tesi\OphthalmologyThesis\VisualStudioThesisCode\TriangulatePoints\TriangulatePoints\TriangulatePoints.cpp(719,9): warning C4101: 'output': unreferenced local variable
+C:\Users\marco\OneDrive\Desktop\Tesi\OphthalmologyThesis\VisualStudioThesisCode\TriangulatePoints\TriangulatePoints\TriangulatePoints.cpp(720,9): warning C4101: 'numberBytes': unreferenced local variable
+C:\Users\marco\OneDrive\Desktop\Tesi\OphthalmologyThesis\VisualStudioThesisCode\TriangulatePoints\TriangulatePoints\TriangulatePoints.cpp(2176,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+     Creating library C:\Users\marco\OneDrive\Desktop\Tesi\OphthalmologyThesis\VisualStudioThesisCode\TriangulatePoints\x64\Release\TriangulatePoints.lib and object C:\Users\marco\OneDrive\Desktop\Tesi\OphthalmologyThesis\VisualStudioThesisCode\TriangulatePoints\x64\Release\TriangulatePoints.exp
+  Generating code
+  1 of 12405 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    254 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TriangulatePoints.vcxproj -> C:\Users\marco\OneDrive\Desktop\Tesi\OphthalmologyThesis\VisualStudioThesisCode\TriangulatePoints\x64\Release\TriangulatePoints.exe
